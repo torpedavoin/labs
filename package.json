@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "lab6": "node lab6.js"
+    "lab6": "node lab6.js",
+    "lab7": "node lab7.js"
   },
   "author": "",
   "license": "ISC",
