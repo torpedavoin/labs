@@ -1,2 +1,3 @@
 # labs
-first command node index.js
+debug lab6.js
+npm run lab6
